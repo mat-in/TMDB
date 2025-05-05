@@ -11,7 +11,7 @@ import kotlinx.coroutines.launch
 class MovieViewModel: ViewModel() {
     var movieLiveData = MutableLiveData<List<Movie>>()
     var errorLiveData = MutableLiveData<String>()
-    var apiKey = "d0e6835cd25a693076c898466f4382c8"
+    var apiKey = "API_KEY"
 
     var retrofitinstance = RetrofitInstance()
         .getRetrofitInstance()
