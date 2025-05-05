@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_now_playing"
+        android:title="@string/now_playing"
+        android:icon="@drawable/ic_now_playing_foreground" />
+
+    <item
+        android:id="@+id/nav_popular"
+        android:title="@string/popular"
+        android:icon="@drawable/ic_popular_foreground" />
+
+    <item
+        android:id="@+id/nav_top_rated"
+        android:title="@string/top_rated"
+        android:icon="@drawable/ic_top_rated_foreground" />
+
+    <item
+        android:id="@+id/nav_upcoming"
+        android:title="@string/upcoming"
+        android:icon="@drawable/ic_upcoming_foreground" />
+</menu>
