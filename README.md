@@ -7,12 +7,16 @@ This is an Android application built in Kotlin using the TMDB (The Movie Databas
 📦 Displays 4 movie categories:
 
 Now Playing
+![image](https://github.com/user-attachments/assets/067aca94-a8e0-4fe0-ac21-86bedd2dc743)
 
 Popular
+![image](https://github.com/user-attachments/assets/7e1ff8e6-e2ea-4ba2-9c9a-7a953367425c)
 
 Top Rated
+![image](https://github.com/user-attachments/assets/f060bba6-ebe7-4d92-8921-eab3c1bd6ddc)
 
 Upcoming
+![image](https://github.com/user-attachments/assets/131bc66f-862b-48ed-93ab-6f014d991078)
 
 📱 Clean and responsive UI using RecyclerViews
 
